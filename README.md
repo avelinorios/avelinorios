@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**avelinorios/avelinorios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Avelino, a backend software developer from Galicia, Spain.
 
-Here are some ideas to get you started:
+- 💻 I’m currently working with Java and Python as main programming languages
+- 🚀 Building [**rekomind**](https://rekomind.com/) with [**Tanis**](https://github.com/tanisperez) and [**Pablo**](https://github.com/priveiro). Come visit us and take a look!
+- 🪙 Last but not least, buy Bitcoin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔗 Get in touch
+
+<a href="https://twitter.com/rekomind">
+  <img align="left" alt="rekomind | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.instagram.com/rekomindweb/">
+  <img align="left" alt="rekomind | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
+
+<a href="https://linkedin.com/in/avelino-rios-saez">
+  <img align="left" alt="Avelino's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
